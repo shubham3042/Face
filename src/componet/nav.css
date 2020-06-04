@@ -1,0 +1,29 @@
+.nav
+{
+    margin-left: 5px;
+    margin-top: -5px;
+    font-size: 50px;
+
+}
+p{
+    font-size:22px;
+    margin-right: 10px;
+    margin-top: 20px;
+    
+}
+p:hover{
+    cursor: pointer;
+}
+.serchbar
+{
+border-radius: 10px;
+
+}
+.particle{
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: -1;
+}
